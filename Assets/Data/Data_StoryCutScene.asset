@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db7befef3ed74cbc97d67bd66029d23f, type: 3}
+  m_Name: Data_StoryCutScene
+  m_EditorClassIdentifier: 
+  storyCutSceneData:
+  - currentStoryProgressStates: 0
+    currentCutSceneAsset: {fileID: 0}
+  - currentStoryProgressStates: 1
+    currentCutSceneAsset: {fileID: 11400000, guid: d294fd19367c90345b113ef321916f1a,
+      type: 2}
+  - currentStoryProgressStates: 6
+    currentCutSceneAsset: {fileID: 0}
+  - currentStoryProgressStates: 7
+    currentCutSceneAsset: {fileID: 0}
+  - currentStoryProgressStates: 9
+    currentCutSceneAsset: {fileID: 0}
